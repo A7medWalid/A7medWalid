@@ -22,7 +22,7 @@ I'm an Egyptian engineering student at the Computer and Control Systems Engineer
 
 ## 📫 Contact Me
 - 📧 Email: [ah7medwalid909@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/ahmed-walid-459ba931b]
+- 💼 LinkedIn: [www.linkedin.com/in/ahmed-walid-9o9]
 - 🐙 GitHub: [https://github.com/A7medWalid]
 
 > “I believe in learning by doing and I'm always eager to explore new technologies and contribute to meaningful projects.”
